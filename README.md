@@ -1,5 +1,6 @@
 # NAME : JOTHILAKSHMI PALANI
 # REGISTER NO : 212223110017
+# DATE : 07/03/2025
 
 # Fitting Poisson  distribution
 # Aim : 
